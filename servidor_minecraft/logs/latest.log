@@ -1,123 +1,49 @@
-[09:42:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:42:42] [ServerMain/INFO]: Loaded 7 recipes
-[09:42:43] [ServerMain/INFO]: Loaded 1271 advancements
-[09:42:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[09:42:43] [Server thread/INFO]: Loading properties
-[09:42:43] [Server thread/INFO]: Default game type: SURVIVAL
-[09:42:43] [Server thread/INFO]: Generating keypair
-[09:42:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:42:44] [Server thread/INFO]: Using epoll channel type
-[09:42:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:42:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:42:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:42:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:42:44] [Server thread/INFO]: Preparing level "world"
-[09:42:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:42:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:58] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:42:59] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:00] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:00] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:04] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:06] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:06] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:09] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:14] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:23] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:24] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:28] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:35] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:36] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:43:38] [Worker-Main-4/INFO]: Preparing spawn area: 5%
-[09:43:39] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[09:43:39] [Worker-Main-4/INFO]: Preparing spawn area: 16%
-[09:43:39] [Worker-Main-4/INFO]: Preparing spawn area: 79%
-[09:43:41] [Server thread/INFO]: Time elapsed: 45975 ms
-[09:43:41] [Server thread/INFO]: Done (57.224s)! For help, type "help"
-[09:43:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[09:43:41] [Server thread/INFO]: home/codespace/.python/current/bin/python /workspaces/ANRCLP/msx.py<--[HERE]
-[09:45:12] [Server thread/INFO]: MrAgic_YT[/127.147.143.38:55861] logged in with entity id 191 at (-113.5, 70.0, 2.5)
-[09:45:12] [Server thread/INFO]: MrAgic_YT joined the game
-[09:46:49] [Server thread/INFO]: Stopping the server
-[09:46:50] [Server thread/INFO]: Stopping server
-[09:46:50] [Server thread/INFO]: Saving players
-[09:46:50] [Server thread/INFO]: MrAgic_YT lost connection: Server closed
-[09:46:50] [Server thread/INFO]: MrAgic_YT left the game
-[09:46:50] [Server thread/INFO]: Saving worlds
-[09:46:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:46:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:46:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:46:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:46:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:46:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:46:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:51:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:51:25] [ServerMain/INFO]: Loaded 7 recipes
+[09:51:25] [ServerMain/INFO]: Loaded 1271 advancements
+[09:51:26] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:51:26] [Server thread/INFO]: Loading properties
+[09:51:26] [Server thread/INFO]: Default game type: SURVIVAL
+[09:51:26] [Server thread/INFO]: Generating keypair
+[09:51:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:51:26] [Server thread/INFO]: Using epoll channel type
+[09:51:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:51:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:51:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:51:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:51:26] [Server thread/INFO]: Preparing level "world"
+[09:51:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[09:51:39] [Server thread/INFO]: Time elapsed: 7495 ms
+[09:51:39] [Server thread/INFO]: Done (13.250s)! For help, type "help"
+[09:52:09] [Server thread/INFO]: MrAgic_YT[/127.147.143.38:52419] logged in with entity id 216 at (-113.43219927986101, 72.0, 20.329280916603285)
+[09:52:10] [Server thread/INFO]: MrAgic_YT joined the game
+[09:52:37] [Server thread/INFO]: Made MrAgic_YT a server operator
+[09:52:43] [Server thread/INFO]: [MrAgic_YT: The difficulty has been set to Hard]
+[09:56:54] [Server thread/INFO]: MrAgic_YT lost connection: Disconnected
+[09:56:54] [Server thread/INFO]: MrAgic_YT left the game
+[09:57:01] [Server thread/INFO]: Stopping the server
+[09:57:01] [Server thread/INFO]: Stopping server
+[09:57:01] [Server thread/INFO]: Saving players
+[09:57:01] [Server thread/INFO]: Saving worlds
+[09:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:57:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:57:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
